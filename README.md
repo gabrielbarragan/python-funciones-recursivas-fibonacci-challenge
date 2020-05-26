@@ -58,12 +58,11 @@ Constrainsts:
 
 ```python
 
-
-	"""function to get fibonacci sequence"""
-
+"""function to get fibonacci sequence"""
 
 
-	"""function to get fibonacci for a number"""
+
+"""function to get fibonacci for a number"""
 	
 
 
